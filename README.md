@@ -22,3 +22,5 @@ as described here: https://www.codeeval.com/public/fbee8632e511329dd61c922020ca6
 -----
 
 My solution passed with a score of 97.5 (I forgot to change the output to CamelCase). This challenge is ranked under the "Hard Level" difficulty and has a 68% pass rate.
+
+Completed as part of the Dot & Bo interview process.
