@@ -24,3 +24,7 @@ as described here: https://www.codeeval.com/public/fbee8632e511329dd61c922020ca6
 My solution passed with a score of 97.5 (I forgot to change the output to CamelCase). This challenge is ranked under the "Hard Level" difficulty and has a 68% pass rate.
 
 Completed as part of the Dot & Bo interview process.
+
+-----
+
+edit: My original assumption was incorrect; I had implemented CamelCase correctly.  It turns out I had 1000000 print out as OneMillionThousandDollars instead of OneMillionDollars.  I fixed this by checking whether the thousand digits string equals "000" which is a quick fix.  Obviously this would present a problem if we considered numbers >= 1 billion.
